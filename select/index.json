@@ -1,0 +1,208 @@
+{
+  "version": 1,
+  "base_track": "MAN WITH A MISSION 『86 Missed Calls feat. Patrick Stump』（feat. パトリック・スタンプ）",
+  "base_artist": "MAN WITH A MISSION",
+  "createdAt": "2026-02-08T16:01:19.298124Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Man With A Mission",
+      "artist": "Bad Religion",
+      "has_synced": true,
+      "path": "select/01_Man_With_A_Mission_Bad_Religion.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Man With a Mission",
+      "artist": "Bad Religion",
+      "has_synced": true,
+      "path": "select/02_Man_With_a_Mission_Bad_Religion.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Man With a Mission",
+      "artist": "Procol Harum",
+      "has_synced": false,
+      "path": "select/03_Man_With_a_Mission_Procol_Harum.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Man With A Mission",
+      "artist": "Bad Religion",
+      "has_synced": false,
+      "path": "select/04_Man_With_A_Mission_Bad_Religion.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Man With a Mission",
+      "artist": "Allies",
+      "has_synced": false,
+      "path": "select/05_Man_With_a_Mission_Allies.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Man With A Mission",
+      "artist": "Rene Froger",
+      "has_synced": false,
+      "path": "select/06_Man_With_A_Mission_Rene_Froger.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Man With A Mission",
+      "artist": "Golden Resurrection",
+      "has_synced": true,
+      "path": "select/07_Man_With_A_Mission_Golden_Resurrection.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "05 Man With A Mission",
+      "artist": "Bad Religion",
+      "has_synced": true,
+      "path": "select/08_05_Man_With_A_Mission_Bad_Religion.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wham Rap '86",
+      "artist": "Wham!",
+      "has_synced": false,
+      "path": "select/09_Wham_Rap_'86_Wham!.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "19 86",
+      "artist": "ONUKA",
+      "has_synced": true,
+      "path": "select/10_19_86_ONUKA.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "86 Measures of Game",
+      "artist": "Necro",
+      "has_synced": true,
+      "path": "select/11_86_Measures_of_Game_Necro.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Expo '86",
+      "artist": "Death Cab for Cutie",
+      "has_synced": true,
+      "path": "select/12_Expo_'86_Death_Cab_for_Cutie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cannons (John Peel session 28.1.86)",
+      "artist": "Siouxsie & The Banshees",
+      "has_synced": false,
+      "path": "select/13_Cannons_(John_Peel_session_28.1.86)_Siouxsie_&_The_Banshees.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Cannons (John Peel session 28.1.86)",
+      "artist": "Siouxsie and the Banshees",
+      "has_synced": false,
+      "path": "select/14_Cannons_(John_Peel_session_28.1.86)_Siouxsie_and_the_Banshees.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Zombie Ritual - Rehearsals 5/26/86",
+      "artist": "Death",
+      "has_synced": false,
+      "path": "select/15_Zombie_Ritual_-_Rehearsals_5_26_86_Death.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Zombie Ritual (Rehearsals 5\u000026\u000086)",
+      "artist": "Death",
+      "has_synced": false,
+      "path": "select/16_Zombie_Ritual_(Rehearsals_5\u000026\u000086)_Death.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Deaf Forever (BBC Session '86)",
+      "artist": "Motörhead",
+      "has_synced": false,
+      "path": "select/17_Deaf_Forever_(BBC_Session_'86)_Motörhead.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Dr. Rock (BBC Session '86)",
+      "artist": "Motörhead",
+      "has_synced": false,
+      "path": "select/18_Dr._Rock_(BBC_Session_'86)_Motörhead.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Orgasmatron (BBC Session '86)",
+      "artist": "Motörhead",
+      "has_synced": false,
+      "path": "select/19_Orgasmatron_(BBC_Session_'86)_Motörhead.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Orgasmatron (Spoken Word) (BBC Session '86)",
+      "artist": "Motörhead",
+      "has_synced": false,
+      "path": "select/20_Orgasmatron_(Spoken_Word)_(BBC_Session_'86)_Motörhead.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Alison Hell '86",
+      "artist": "Annihilator",
+      "has_synced": true,
+      "path": "select/21_Alison_Hell_'86_Annihilator.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Phantasmagoria '86",
+      "artist": "Annihilator",
+      "has_synced": false,
+      "path": "select/22_Phantasmagoria_'86_Annihilator.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "86",
+      "artist": "Sick Of It All",
+      "has_synced": false,
+      "path": "select/23_86_Sick_Of_It_All.txt"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "I Call Your Name (Montezuma demo / 26.07.86)",
+      "artist": "Roxette",
+      "has_synced": false,
+      "path": "select/24_I_Call_Your_Name_(Montezuma_demo___26.07.86)_Roxette.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "86 Missed Calls feat. Patrick Stump",
+      "artist": "MAN WITH A MISSION",
+      "has_synced": false,
+      "path": "select/pl_01_86_Missed_Calls_feat._Patrick_Stump_MAN_WITH_A_MISSION.txt"
+    }
+  ]
+}
