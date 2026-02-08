@@ -1,4 +1,4 @@
-# MAN WITH A MISSION – MAN WITH A MISSION 『86 Missed Calls feat. Patrick Stump』（feat. パトリック・スタンプ）
+# MAN WITH A MISSION – MAN WITH A MISSION 『86 Missed Calls feat. Patrick Stump』
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
